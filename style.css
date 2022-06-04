@@ -2,19 +2,20 @@
     text-align: center;
     color: whitesmoke;
 }
+#div{
+    margin-top:100px;
+    border-radius: 25px;
+}
+#mostrar{
+    right:10700px;
+}
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-#probar{
-    margin: 0 5000px 0 0;
-}
 .input{
     text-align: center;
-}
-.container{
-    align-self: center;
 }
 .boton{ 
     width: 100px;
